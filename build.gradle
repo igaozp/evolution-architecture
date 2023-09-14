@@ -2,8 +2,8 @@ plugins {
     id 'java'
 }
 
-group 'me.kaokp'
-version '1.0-SNAPSHOT'
+group 'io.github.igaozp'
+version '0.0.1'
 
 repositories {
     mavenCentral()
